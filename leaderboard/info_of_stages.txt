@@ -1,0 +1,8 @@
+Stages of progress in STAGES
+
+stage 1: A dummy Leaderboard website which displays top scores 
+stage 2: The website is linked to database now, updations in database are reflected in leaderboard website,eg:-
+			If new entry is added and his score is higher than the topper of leaderboard,he replaces him, and the topper becomes second.
+stage 3: If a new entry has to be made , the person has to register first.
+			registered users can only log in and view the leaderboard sites now.
+			
